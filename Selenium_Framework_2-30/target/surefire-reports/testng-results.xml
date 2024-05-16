@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-16T16:22:22 IST" name="Surefire suite" finished-at="2024-05-16T16:22:22 IST" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2024-05-16T16:22:22 IST" name="Surefire test" finished-at="2024-05-16T16:22:22 IST" duration-ms="27">
+      <class name="parameter.JenkinsParameterTest">
+        <test-method signature="recieveDataFromJenkins()[pri:0, instance:parameter.JenkinsParameterTest@75f32542]" started-at="2024-05-16T16:22:22 IST" name="recieveDataFromJenkins" finished-at="2024-05-16T16:22:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recieveDataFromJenkins -->
+      </class> <!-- parameter.JenkinsParameterTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
